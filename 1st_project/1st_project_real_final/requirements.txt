@@ -1,0 +1,6 @@
+pandas
+jupyter
+ipykernel
+openpyxl
+streamlit
+plotly
